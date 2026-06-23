@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@keyframes swipeUp {
+  from {
+    transform: translateY(120%); /* Start completely below the viewport */
+    opacity: 0;                  /* Fully invisible */
+  }
+  to {
+    transform: translateY(0);   /* Move into its exact resting position */
+    opacity: 1;                  /* Fully visible */
+  }
+}
+
+.animate-swipe-up {
+  animation: swipeUp 1s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
