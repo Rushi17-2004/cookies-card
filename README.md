@@ -1,6 +1,6 @@
 # React + Tailwind CSS Cookie Consent Banner
 
-**Live Project URL:** https://rushi17-2004.github.io/cookies-card/
+[Live Project URL](https://rushi17-2004.github.io/cookies-card/)
 
 A lightweight, modern, and animated Cookie Consent Banner component built using **React**, **Vite**, **Tailwind CSS**, and **Lucide React**. This component manages UI visibility states seamlessly and persists user configuration directly in the browser's local storage.
 
