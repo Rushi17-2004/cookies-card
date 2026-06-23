@@ -9,3 +9,4 @@ A lightweight, modern, and animated Cookie Consent Banner component built using 
   * Clicking the close cross **(X)** suppresses layout rendering strictly for the current active browsing window session.
 * **Fully Responsive UI:** Dark mode styling (`bg-gray-950`) optimized with fluid sizing and reactive click animations via Tailwind CSS.
 
+**Live Project URL:** https://rushi17-2004.github.io/cookies-card/
